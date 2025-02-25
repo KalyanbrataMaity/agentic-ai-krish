@@ -1,0 +1,5 @@
+# ignore the virtua environment directory
+.venv/
+
+# ignore environment variables file
+.env 
